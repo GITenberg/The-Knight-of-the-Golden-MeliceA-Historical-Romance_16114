@@ -1,0 +1,29 @@
+_repo: The-Knight-of-the-Golden-MeliceA-Historical-Romance_16114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, John Turvill
+    birthdate: 1805
+    deathdate: 1882
+    gutenberg_agent_id: '6000'
+    url: http://www.gutenberg.org/2009/agents/6000
+description: ''
+gutenberg_issued: '2005-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardiner, Christopher, Sir, fl.1630-1632 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Massachusetts -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+title: 'The Knight of the Golden Melice
+
+  A Historical Romance'
+url: http://www.gutenberg.org/ebooks/16114
