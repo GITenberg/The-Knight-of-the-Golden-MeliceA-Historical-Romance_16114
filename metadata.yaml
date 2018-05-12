@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6000'
     url: http://www.gutenberg.org/2009/agents/6000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16114#The-Knight-of-the-Golden-MeliceA-Historical-Romance
 gutenberg_issued: '2005-06-23'
 gutenberg_type: Text
 identifiers:
